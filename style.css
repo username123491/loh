@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+   text-align: center;
+    box-shadow: 12px 12px 2px 1px yellow;
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+                  url("../../media/examples/lizard.png");
+    border-radius: 20px;
+}
+.link-header{
+    font-size: 40px;
+    color: forestgreen;
+    text-decoration: none;
+}
+.link-nav{
+    text-decoration: none;
+}
+p{
+    text-align: center;
+    color: dimgrey;
+}
+.link-text{
+    text-decoration: none;
+    color: lightsalmon;
+}
+li{
+    color: burlywood;
+}
